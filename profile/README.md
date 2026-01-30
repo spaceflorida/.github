@@ -1,54 +1,45 @@
-<!-- 
-  ███████╗██████╗  █████╗  ██████╗███████╗    ███████╗██╗      ██████╗ ██████╗ ██╗██████╗  █████╗ 
-  ██╔════╝██╔══██╗██╔══██╗██╔════╝██╔════╝    ██╔════╝██║     ██╔═══██╗██╔══██╗██║██╔══██╗██╔══██╗
-  ███████╗██████╔╝███████║██║     █████╗      █████╗  ██║     ██║   ██║██████╔╝██║██║  ██║███████║
-  ╚════██║██╔═══╝ ██╔══██║██║     ██╔══╝      ██╔══╝  ██║     ██║   ██║██╔══██╗██║██║  ██║██╔══██║
-  ███████║██║     ██║  ██║╚██████╗███████╗    ██║     ███████╗╚██████╔╝██║  ██║██║██████╔╝██║  ██║
-  ╚══════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝╚══════╝    ╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝
--->
-
 <div align="center">
 
-![Space Florida](https://img.shields.io/badge/SPACE-FLORIDA-0D006A?style=for-the-badge&labelColor=BF0085)
-
-### *Be Where New Ideas Take Off®*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D006A,100:BF0085&height=200&section=header&text=SPACE%20FLORIDA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Be%20Where%20New%20Ideas%20Take%20Off®&descSize=20&descAlignY=55"/>
 
 <br>
 
-[![Web](https://img.shields.io/badge/spaceflorida.gov-0D006A?style=flat-square&logo=safari&logoColor=white)](https://spaceflorida.gov)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D006A?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/space-florida)
-[![X](https://img.shields.io/badge/X-0D006A?style=flat-square&logo=x&logoColor=white)](https://x.com/spaceflorida)
-[![YouTube](https://img.shields.io/badge/YouTube-0D006A?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@SpaceFlorida)
+[![spaceflorida.gov](https://img.shields.io/badge/🌐_spaceflorida.gov-0D006A?style=for-the-badge)](https://spaceflorida.gov)
+  
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-BF0085?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/space-florida)
+  
+[![X](https://img.shields.io/badge/X-0D006A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/spaceflorida)
+  
+[![YouTube](https://img.shields.io/badge/YOUTUBE-BF0085?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@SpaceFlorida)
 
 <br>
+<br>
+
+<table>
+<tr>
+<td>
 
 ```
-Florida's Aerospace Finance & Development Authority
+ ╔══════════════════════════════════════════════════════════════╗
+ ║                                                              ║
+ ║   Florida's Aerospace Finance & Development Authority        ║
+ ║                                                              ║
+ ║   Driving the future of aerospace with unrivaled             ║
+ ║   experience, unmatched financial tools, and an              ║
+ ║   unbeatable location.                                       ║
+ ║                                                              ║
+ ║   The global and interplanetary hub for sustainable          ║
+ ║   aerospace commerce.                                        ║
+ ║                                                              ║
+ ╚══════════════════════════════════════════════════════════════╝
 ```
 
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=27&height=2&section=header" width="100%">
-
-<br>
-
-## `>_ MISSION`
-
-Space Florida drives the future of aerospace by connecting industry leaders with **unrivaled experience**, **unmatched financial tools**, and an **unbeatable location**. We’re building the global and interplanetary hub for sustainable aerospace commerce.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=27&height=2&section=footer" width="100%">
-
-<br>
-
-<div align="center">
-
-![Made in Florida](https://img.shields.io/badge/Made_in-Florida-BF0085?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Operational-0D006A?style=flat-square)
-
-<sub>© Space Florida · Florida’s Aerospace Finance and Development Authority</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF0085,100:0D006A&height=100&section=footer"/>
 
 </div>
